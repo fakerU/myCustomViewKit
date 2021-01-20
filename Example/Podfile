@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'myCustomViewKit_Example' do
+  pod 'myCustomViewKit', :path => '../'
+
+  target 'myCustomViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
