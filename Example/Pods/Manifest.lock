@@ -1,0 +1,16 @@
+PODS:
+  - myCustomViewKit (0.1.0)
+
+DEPENDENCIES:
+  - myCustomViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  myCustomViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  myCustomViewKit: 67f4851b008d4ffd99adf800c7982b3ecf96d3cc
+
+PODFILE CHECKSUM: 904c794b40fb909feb28ec81e0409946c3b3e7a2
+
+COCOAPODS: 1.9.1

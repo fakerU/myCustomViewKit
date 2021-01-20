@@ -1,0 +1,6 @@
+framework module myCustomViewKit {
+  umbrella header "myCustomViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "myCustomViewKit",
+  "version": "0.1.0",
+  "summary": "A short description of myCustomViewKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/575751857@qq.com/myCustomViewKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "575751857@qq.com": "575751857@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/575751857@qq.com/myCustomViewKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "myCustomViewKit/Classes/**/*"
+}
